@@ -5,6 +5,7 @@
 ## Before recording
 
 - Run a clean browser session at desktop size, without personal tabs or keys visible.
+- Open the Vercel demo: https://learning-os-sql-studio.vercel.app
 - Confirm a real SQL query runs and the output is visible.
 - Keep the prototype label and synthetic dataset label visible.
 - Do not fabricate a pre/post improvement or populate mock learner metrics.

@@ -2,6 +2,10 @@
 
 **Incomplete capstone prototype submitted for review, October 8, 2026.**
 
+Live Demo Day prototype: https://learning-os-sql-studio.vercel.app
+
+For Vercel, use the Next.js framework and `npm run build:vercel`. The deployment uses authored hints without API credentials. `.vercelignore` excludes local environment files and tool state.
+
 A SQL learning workspace focused on assisted independence: practice with graduated hints, then answer new questions without the coach.
 
 ## Review documents

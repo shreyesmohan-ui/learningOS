@@ -2,7 +2,9 @@
 
 **Capstone delivery pack | Shreyes Mohan | Cohort 7**
 
-> Status: working-source package in verification. Not yet a complete capstone submission. Read the gaps below before publishing or submitting.
+> Status: deployed prototype with a verified Vercel production build. The official brief's remaining validation and integration gaps are listed below.
+
+**Live project:** https://learning-os-sql-studio.vercel.app
 
 ## The project in one sentence
 
@@ -12,7 +14,7 @@ A SQL learning workspace that distinguishes getting an answer with help from sol
 
 | Required deliverable | Current artifact | Outstanding work |
 | --- | --- | --- |
-| Live project | Application source in this folder's parent | Deploy and verify reviewer access |
+| Live project | https://learning-os-sql-studio.vercel.app | Public HTTP access verified on October 9, 2026 |
 | GitHub repo / workflow JSON | Typed app, PostgreSQL worker, tests, setup guide | Publish repository and verify a clean install |
 | Demo video | [Recording script](DEMO-SCRIPT.md) | Record the real application, upload, verify access |
 | Public case study | [Blog draft](CASE-STUDY.md) | Refine, add real screenshot, publish on Medium or LinkedIn |
@@ -58,7 +60,7 @@ The evening delivery target was missed. The Demo Day cutoff must not be confused
 | Name | Shreyes Mohan |
 | Email | Use your course-registration email |
 | Solo / Team | Confirm actual team arrangement before submission |
-| Live Project Link | PENDING: verified accessible deployment |
+| Live Project Link | https://learning-os-sql-studio.vercel.app |
 | GitHub repo / JSON Link | PENDING: repository with setup instructions |
 | Demo Video Link | PENDING: uploaded recording, not this script |
 | Case Study Link | PENDING: public Medium or LinkedIn post |
