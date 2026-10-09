@@ -1,6 +1,6 @@
 # Learning OS: Building for the Moment the Help Disappears
 
-**Draft for review | Shreyes Mohan | October 8, 2026**
+** Shreyes Mohanya | October 8, 2026**
 
 > In prototype stage . Currently under trial will publish results once done.
 
