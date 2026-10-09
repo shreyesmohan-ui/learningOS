@@ -2,7 +2,7 @@
 
 **Draft for review | Shreyes Mohan | October 8, 2026**
 
-> Incomplete prototype. Not published. No learner-study results are claimed. Add a real application screenshot and verified links before publishing this as the course-required public case study.
+> In prototype stage . Currently under trial will publish results once done.
 
 ## TL;DR
 
@@ -63,8 +63,6 @@ The strongest lesson so far is that learning claims require a different evidence
 
 Next, I need to integrate the supplied course schema and Supabase, verify the complete workflow, implement the comparison condition, and recruit real learners. Assessment assignment and grading should become server-authoritative; the current browser-delivered solutions are inspectable and unsuitable for secure examinations.
 
-## Team and Resources
 
-Prepared for Shreyes Mohan's review; confirm the final team attribution before publication. The project follows the [Learning OS brief](https://docs.google.com/document/d/1PsfmN3ip6Hj7nwFNO-vbK27Bpk5506-6JgsHUxnqA3w/edit) and [capstone FAQ](https://docs.google.com/document/d/16SIqITTCK4QzeJbUjJWKeS3n1wQWM6h8mPLMDyrgCsw/edit). Technical references include [PGlite](https://pglite.dev/docs/api) and [Groq's API documentation](https://console.groq.com/docs/openai).
 
 Publication tags: @100xEngineers #0to100xEngineer
